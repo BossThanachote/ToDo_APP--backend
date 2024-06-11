@@ -39,5 +39,7 @@
 
 
 
-*link to website* : https://3-d-shirt-v1.vercel.app/
+*link to website* : [https://3-d-shirt-v1.vercel.app/](https://main--statuesque-souffle-81233c.netlify.app/)
+
+## Deploy on Netlify
 
